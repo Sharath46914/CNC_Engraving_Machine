@@ -42,4 +42,6 @@ management. This contributes to reducing operational costs and environmental imp
 allowing for customization and future upgrades. This enables users to adapt the machine 
 to their specific needs and incorporate new technologies as they become available 
 without the need for complete replacement.
+
+
 Material Used to build CNC machine:- Arduino Uno R3, CNC Shield V3, 3 Nema-17 Stepper motors, A spindel motor RS775 (15000rpm), 3 A4988 Stepper motor driver, 24v 5A Power Supply, ball bearings, 3 Lead screws, stepper motor couplers, linear bearings, Motor holders, ER-11 Chuck(if not available use drill chuck) Wood for the frame of CNC.
